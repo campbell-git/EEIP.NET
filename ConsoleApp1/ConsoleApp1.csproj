@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EthernetIp\Wrapper.csproj">
+    <ProjectReference Include="..\Wrapper\Wrapper.csproj">
       <Project>{c9e8e621-b621-4cff-aad7-c3dbbde91be2}</Project>
       <Name>Wrapper</Name>
     </ProjectReference>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrapper", "EthernetIp\Wrapper.csproj", "{C9E8E621-B621-4CFF-AAD7-C3DBBDE91BE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrapper", "Wrapper\Wrapper.csproj", "{C9E8E621-B621-4CFF-AAD7-C3DBBDE91BE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEIP", "EEIP.NET\EEIP.csproj", "{C7A980DD-A57F-4FC7-A555-10EDC85C749D}"
 EndProject
