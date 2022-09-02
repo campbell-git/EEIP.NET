@@ -56,7 +56,7 @@
     <Compile Include="Interroll\OutputObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Smc\SolenoidBank.cs" />
-    <Compile Include="Turck\Fen20Profile.cs" />
+    <Compile Include="Turck\Fen20.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
