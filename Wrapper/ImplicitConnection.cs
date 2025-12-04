@@ -41,6 +41,9 @@ namespace Wrapper
 			eip.TargetUDPPort = 2048;
 			//_eeipClient.TCPPort = port;
 
+			eip.AssemblyObjectClass = profile.AssemblyObjectClass;
+			eip.ConfigurationAssemblyInstanceID = profile.ConfigurationAssemblyInstanceID;
+
 			//Parameters from Originator -> Target
 			eip.O_T_InstanceID = profile.O_T.Instance_ID; //Instance ID of the Output Assembly
 			eip.O_T_Length = profile.O_T.Length; //The Method "Detect_O_T_Length" detect the Length using an UCMM Message
